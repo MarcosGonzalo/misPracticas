@@ -1,0 +1,37 @@
+
+.form-todo {
+    /* border: solid; */
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.inp-todo::placeholder {
+    color: #858594;
+}
+
+
+
+.inp-todo, .btn-add-todo {
+    flex-grow: 1;
+
+    padding: 5px 10px;
+    
+    background: transparent;
+    box-shadow: 0 0 10px 1px black;
+
+    font-size: 15px;
+    color: #858594;
+}
+
+@media ( min-width: 285px ) {
+
+
+    .inp-todo {
+        max-width: 250px;
+    }
+    .btn-add-todo {
+        max-width: 70px;
+    }
+}

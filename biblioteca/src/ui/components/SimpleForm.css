@@ -1,0 +1,27 @@
+.simpleForm {
+    padding: 10px 20px;
+    background: #101010;
+    border-radius: 10px;
+
+    display: flex;
+    gap: 10px;
+    box-shadow: 0 0 5px 1px black;
+
+    &>* {
+        background: transparent;
+        box-shadow: 0 0 3px 1px rgb(255, 255, 0);
+        border: none;
+        outline: none;
+        color: rgb(147, 145, 166);
+        padding: 5px 10px;
+        border-radius: 10px;
+    }
+
+    input {
+        
+    }
+
+    button {
+        color: yellow;
+    }
+}

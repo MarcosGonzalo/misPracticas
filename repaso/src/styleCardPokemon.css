@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    height: 200px;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+}

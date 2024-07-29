@@ -1,0 +1,12 @@
+.form-todo {
+    /* outline: 3px solid yellow; */
+    max-width: 800px;
+    margin: auto;
+
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+
+

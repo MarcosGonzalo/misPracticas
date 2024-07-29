@@ -1,0 +1,5 @@
+Si estas con grid y quieres que tus columnas tengan un maximo de ancho 
+y que el resto se ajuste segun el ancho de su padre puedes utilizar "auto"
+como primer parametro en la funcion: minmax(auto, 150px)
+asi tus columnas se estiraran solo hasta 150px, pero se pueden achicar segun
+el ancho del padre

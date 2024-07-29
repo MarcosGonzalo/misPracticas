@@ -1,0 +1,9 @@
+.celda {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #242424;
+
+    font-size: 35px;
+}

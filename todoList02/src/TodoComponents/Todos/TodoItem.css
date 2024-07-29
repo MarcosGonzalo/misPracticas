@@ -1,0 +1,31 @@
+.todo-item {
+
+    display: flex;
+    justify-content: space-between;
+
+    max-width: 600px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px 1px black;
+    margin: 13px auto;
+}
+
+.todo-item input {
+    text-overflow: ellipsis;
+    /* border: solid; */
+    display: block;
+    flex-grow: 1;
+    max-width: 300px;
+}
+
+.todo-item div {
+    /* border: solid; */
+    display: flex;
+    gap: 8px;
+}
+
+.todo-item div button {
+    outline: solid;    
+    width: 35px;
+    height: 30px;
+}

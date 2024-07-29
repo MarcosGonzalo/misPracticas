@@ -1,0 +1,27 @@
+:root {
+  background-color: #242424;
+}
+
+
+body {
+  color: #D1D1D1;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titulo {
+  text-align: center;
+  font-style: italic;
+  color: yellow;
+}
+
+.zona-game {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 70px;
+
+}
+
+.tablero.disabled {
+  pointer-events: none;
+}

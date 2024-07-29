@@ -1,0 +1,13 @@
+[
+    { "codigo": "1234", "password": "123" },
+    { "codigo": "2341", "password": "231" },
+    { "codigo": "3412", "password": "312" },
+    { "codigo": "4123", "password": "123" },
+    { "codigo": "2314", "password": "213" },
+    { "codigo": "3142", "password": "321" },
+    { "codigo": "4231", "password": "132" },
+    { "codigo": "1324", "password": "231" },
+    { "codigo": "2143", "password": "312" },
+    { "codigo": "3421", "password": "123" }
+  ]
+  

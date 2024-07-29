@@ -1,0 +1,60 @@
+.menu-main {
+
+    display: flex;
+    flex-direction: column;
+
+    height: 80px;
+    
+    background: #101010;
+
+    .title {
+
+        flex-grow: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    nav {
+     background: #0a0a0a;
+    }
+
+    .list {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+
+        position: relative;
+
+        height: 30px;
+        list-style:none;
+
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    .list>* {
+        border-radius: 5px;
+        padding: 5px;
+        transition: background 0.3s ease;
+
+    }
+
+    .list>*:hover {
+        background: #101010;
+    }
+
+    .item-user {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+
+        position: absolute;
+        right: 20px;
+
+        i {
+            font-size: 20px;
+        }
+    }
+}

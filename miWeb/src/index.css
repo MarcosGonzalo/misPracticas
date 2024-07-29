@@ -1,0 +1,58 @@
+:root {
+	/*Ancho y alto de los menus*/
+	--menu-top-height: 100px;
+	--menu-lateral-width: 125px;
+
+	--font-size-grande: 1.75em;
+
+
+	/*fuente y colores*/
+	--color-azul-oscuro: #031926;
+
+
+	/*total de colores*/
+	
+	/*verde:*/ 
+	--verde-medio: #0fcd4f;
+
+
+	/* amarillo:  */
+	--amarillo-medio: #fff800;
+
+
+	/* azules */
+
+	--azul-claro: #274050;
+	--azul-medio: #172734;
+	--azul-oscuro: #031926;
+	--azul-verdoso: #132228;
+
+
+	/* celestes */
+
+	--celeste-claro: #67e0f4;
+	--celeste-medio: #00cfff;
+	--celeste-oscuro: #009eff;
+	--celeste-oscuro-dark: #0c85f2; /*<- no es seguro que se utilize */
+
+
+	/* blanco */
+
+	--blanco-claro:#e6e6e6;
+	--blanco-medio:#cccccc;
+	--blanco-oscuro:#b3b3b3; 
+	--blanco-oscuro-dark: #999999; /*<- no es seguro que se utilize */
+	
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--azul-medio);
+  font-family: Arial, Helvetica, sans-serif;
+
+}

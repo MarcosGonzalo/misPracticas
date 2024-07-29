@@ -1,0 +1,51 @@
+.card-book {
+
+    display: flex;
+    flex-direction: column;
+
+
+    width: 170px;
+    min-width: 150px;
+    height: 200px;
+    overflow: hidden;
+    transition: transform 0.1s ease-in;
+
+    background: #202020;
+    box-shadow: 0 0 5px 2px black;
+    border-radius: 10px;
+
+    img {
+        height: 75%;
+        object-fit: cover;
+    }
+
+    figcaption {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        gap: 5px;
+        height: 70px;
+        padding:7px 5px ;
+        font-weight: bold;
+
+
+        .card-title {
+            font-size: 14px;
+            color: #EBD00C;
+            line-height: .90;
+            text-overflow: ellipsis;
+        }
+
+        .card-autor {
+            font-size: 10px;
+            font-style: italic;
+            height: 10px;
+        }
+    }
+
+}
+
+.card-book:hover {
+    transform: translate(0, -10px);
+}

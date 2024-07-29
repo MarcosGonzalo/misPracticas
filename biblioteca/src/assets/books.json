@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "nombre": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "año": 1967,
+      "descripcion": "Una obra maestra del realismo mágico que narra la historia de la familia Buendía en el pueblo ficticio de Macondo.",
+      "stock": 12,
+      "url": "https://es.wikipedia.org/wiki/Cien_a%C3%B1os_de_soledad"
+    },
+    {
+      "id": 2,
+      "nombre": "El Señor de los Anillos",
+      "autor": "J.R.R. Tolkien",
+      "año": 1954,
+      "descripcion": "Una épica fantasía que narra la aventura de Frodo Bolsón y sus compañeros para destruir el Anillo Único.",
+      "stock": 8,
+      "url": "https://es.wikipedia.org/wiki/El_Se%C3%B1or_de_los_Anillos"
+    },
+    {
+      "id": 3,
+      "nombre": "El Principito",
+      "autor": "Antoine de Saint-Exupéry",
+      "año": 1943,
+      "descripcion": "Un relato poético y filosófico sobre la amistad, el amor y la vida.",
+      "stock": 15,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_Little_Prince_cover_edit.jpg/1200px-The_Little_Prince_cover_edit.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "1984",
+      "autor": "George Orwell",
+      "año": 1949,
+      "descripcion": "Una distopía política que describe un futuro donde el gobierno controla todos los aspectos de la vida.",
+      "stock": 6,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nineteen_Eighty-Four_(cover).jpg/1200px-Nineteen_Eighty-Four_(cover).jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Orgullo y Prejuicio",
+      "autor": "Jane Austen",
+      "año": 1813,
+      "descripcion": "Una novela romántica clásica que narra la historia de Elizabeth Bennet y su búsqueda del amor.",
+      "stock": 10,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pride_and_Prejudice_cover.jpg/1200px-Pride_and_Prejudice_cover.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Crimen y Castigo",
+      "autor": "Fiódor Dostoievski",
+      "año": 1866,
+      "descripcion": "Una novela psicológica que explora la culpa, el remordimiento y la redención.",
+      "stock": 4,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Crime_and_Punishment_(1866_edition).jpg/1200px-Crime_and_Punishment_(1866_edition).jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "El Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "año": 1937,
+      "descripcion": "Una precuela de El Señor de los Anillos que narra la aventura de Bilbo Bolsón en busca de un tesoro.",
+      "stock": 11,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Hobbit_cover.jpg/1200px-The_Hobbit_cover.jpg"
+    }
+]
+  
+  

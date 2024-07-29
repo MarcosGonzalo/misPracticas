@@ -1,0 +1,27 @@
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    min-width: 30px;
+    min-height: 30px;
+    
+    border-radius: 5px;
+    box-shadow: 0 0 10px black;
+    transition: background 0.2s ease;
+}
+
+.button:hover {
+    background: #0C0C0C;
+    
+}
+
+.button.btn-resaltado {
+    background: #EA5900;
+    color: black;
+    font-weight: bold;
+}
+
+.btn-resaltado:hover {
+    background: #b04401;
+}

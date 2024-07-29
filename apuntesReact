@@ -1,0 +1,7 @@
+memo -> para memorizar componentes - los componentes se actualizan 
+solo cuando cambian las props
+useMemo -> para memorizar valores
+useCallback -> para memorizar funciones
+
+* los hooks nunca deben llamarse dentro de bucles o condicianales, tienen comportaminetos muy raros
+

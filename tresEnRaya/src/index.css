@@ -1,0 +1,17 @@
+:root {
+  background-color: #242424;
+}
+
+
+body {
+  color: #D1D1D1;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.zona-juego {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+  gap: 200px;
+}

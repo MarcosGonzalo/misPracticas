@@ -1,0 +1,20 @@
+.content-ganador {
+    border-radius: 15px;
+    padding: 40px;
+    box-shadow: 0 0 10px 1px black;
+    text-align: center;
+
+    font-weight: bold;
+}
+
+.winner-title {
+    color: rgb(198, 198, 28);
+}
+
+.ganador {
+    color: rgb(198, 198, 28);
+}
+
+hr {
+    border: 1px #373737 solid;
+}
